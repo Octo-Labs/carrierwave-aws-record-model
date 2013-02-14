@@ -1,5 +1,5 @@
-module Carrierwave
-  module Aws
+module CarrierWave
+  module AWS
     module Record
       module Model
         VERSION = "0.0.1"
