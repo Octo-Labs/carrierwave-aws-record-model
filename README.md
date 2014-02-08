@@ -2,6 +2,11 @@
 
 TODO: Write a gem description
 
+
+[![Gem Version](https://badge.fury.io/rb/carrierwave-aws-record-model.png)](http://badge.fury.io/rb/carrierwave-aws-record-model)
+[![Code Climate](https://codeclimate.com/repos/52f5de03e30ba05c52008416/badges/ef12e5ea6b2f20aabd49/gpa.png)](https://codeclimate.com/repos/52f5de03e30ba05c52008416/feed)
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
